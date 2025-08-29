@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **harshithapalamani@gmail.com**
 
-- 🕰️ Carpe Diem in life, Carpe Commit in code.
+### 🎬 Fun Fact
+*“Keating told me to make life extraordinary — I just make my pull requests extraordinary.”*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
