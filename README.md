@@ -15,9 +15,8 @@
 
 - 📫 How to reach me **harshithapalamani@gmail.com**
 
-### 📖 Fun Fact
-*"Keating said: 'No matter what anyone tells you, words and ideas can change the world.'  
-I say: so can code."*
+### 🎬 Fun Fact
+*Dead Poets Society taught me **Carpe Diem**, GitHub taught me **Carpe Commit**.*
 
 
 <h3 align="left">Connect with me:</h3>
