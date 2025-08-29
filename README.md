@@ -15,8 +15,10 @@
 
 - 📫 How to reach me **harshithapalamani@gmail.com**
 
-### 🎬 Fun Fact
-*“Keating told me to make life extraordinary — I just make my pull requests extraordinary.”*
+### 📖 Fun Fact
+*"Keating said: 'No matter what anyone tells you, words and ideas can change the world.'  
+I say: so can code."*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
